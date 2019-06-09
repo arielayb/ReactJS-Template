@@ -28,7 +28,7 @@ sudo npm install -g webpack
 
 ### Step 3:
 
-Traverse into the GeoUI folder (Or where you cloned the repo) and
+Traverse into the ReactJS-Template folder (Or where you cloned the repo) and
 
 type this command in the terminal:
 
