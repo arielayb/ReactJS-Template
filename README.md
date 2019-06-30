@@ -38,7 +38,7 @@ npm install
 
 ### Step 4:
 
-Once the installation is complete, you need to compile the web application.
+Once the installation is complete, you need to build the web application.
 
 Type this command in the terminal:
 
