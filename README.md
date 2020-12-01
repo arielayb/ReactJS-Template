@@ -1,7 +1,6 @@
 # ReactJS Template
 
-The purpose of the ReactJS template is to provide the user
-a frontend that can send packets to the backend using the
+The purpose of the ReactJS template is to provide a frontend that can send packets to the backend using the
 socket.io library.
 
 ### Step 1:
